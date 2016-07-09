@@ -1,0 +1,4 @@
+﻿  test.cpp
+c:\users\good\documents\visual studio 2015\projects\project3\project3\test.cpp(13): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Project3.vcxproj -> C:\Users\good\Documents\Visual Studio 2015\Projects\Project3\Debug\Project3.exe
+  Project3.vcxproj -> C:\Users\good\Documents\Visual Studio 2015\Projects\Project3\Debug\Project3.pdb (Partial PDB)
